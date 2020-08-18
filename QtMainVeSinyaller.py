@@ -1,15 +1,14 @@
 """
 /*
+------------------------------------
 ixakblt - ibrahim AKBULUT
--------------------------------
- https://ixakblt.site
--------------------------------
-https://ixakblt.com
--------------------------------
+------------------------------------
+Web Site :ixakblt
+------------------------------------
+All Sites : @ixakblt
+------------------------------------
 */
 """
-
-
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
